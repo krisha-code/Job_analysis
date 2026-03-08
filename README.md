@@ -220,4 +220,8 @@ Track skill demand trends over time
 
 Build interactive web dashboards
 
-Predict salary based on skills
+Predict salary based on 
+
+
+
+<img width="957" height="698" alt="Screenshot 2026-03-08 165729" src="https://github.com/user-attachments/assets/eb14e212-c89a-43e1-bb1e-ddffcdc1a615" />
